@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&multiline=true&width=688&height=88&lines=Hello!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B+I'm+John+Tao.;%E2%80%9CStay+hungry%EF%BC%8Cstay+foolish.%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&multiline=true&width=688&height=88&lines=Hi+There!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B+I'm+John+Tao." alt="Typing SVG" /></a>
 
 # 🎉 About me
 🎓 Junior college student majoring in software technology in Nanjing Engineering Higher Vocational School
@@ -75,22 +75,6 @@
 </div>
 
 
-
-
-
------
-
-# About My Github
-
-| <img src="https://metrics.lecoq.io/Draper-crypto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto" style="zoom:130%;" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://streak-stats.demolab.com/?user=Draper-crypto"> | <img src="https://github-readme-stats.vercel.app/api?username=Draper-crypto&show_icons=true&theme=flag-india"> |
-
-<img src="https://github-profile-trophy.vercel.app/?username=Draper-crypto&row=1&column=6&theme=flat&margin-w=50&margin-h=50&no-bg=true&no-frame=true&quot;" style="zoom:150%;" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Draper-crypto&theme=react-dark">
-
------
 
 # Domestic creation platform
 
