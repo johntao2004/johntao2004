@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm John Tao!
 
-<div >
+<div>
     <a href="https://github.com/draper-crypto" target="_blank">
         <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 10px;" />
     </a>
@@ -39,9 +39,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
+ </div>
 
-</td><td valign="top" width="33%">
 
 ### Environment
 
@@ -51,9 +50,8 @@
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-</div>
+ </div>
 
-</td><td valign="top" width="33%">
 
 ### Deploy
 
@@ -61,51 +59,34 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-</div>
-
-</td></tr></table>
+ </div>
 
 <br/>
 
-## Github Stats
-<div align="center" style="margin:0;padding:0;line-height:0;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draper-crypto&theme=blue_green" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-</div>
+## GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draper-crypto&theme=blue_green" alt="profile details" width="100%" />
+ </p>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:0;margin:0;padding:0;line-height:0;">
-<tr>
-    <td align="center" width="50%" style="padding:0;border:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-    </td>
-    <td align="center" width="50%" style="padding:0;border:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draper-crypto&theme=blue_green" alt="most commit language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-    </td>
-</tr>
-<tr>
-    <td align="center" width="50%" style="padding:0;border:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-    </td>
-    <td align="center" width="50%" style="padding:0;border:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=draper-crypto&theme=blue_green&utcOffset=8" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-    </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draper-crypto&theme=blue_green" alt="repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draper-crypto&theme=blue_green" alt="most commit language" width="49%" />
+ </p>
 
-<div align="center" style="margin:0;padding:0;line-height:0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=draper-crypto&theme=react-dark" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=draper-crypto&theme=blue_green" alt="stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=draper-crypto&theme=blue_green&utcOffset=8" alt="productive time" width="49%" />
+ </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=draper-crypto&theme=react-dark" alt="contribution graph" width="100%" />
+ </p>
 
 <br/>
 
 
 ## 中国大陆创作
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0;padding:0;line-height:0;">
-<tr>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="https://stats.justsong.cn/api/zhihu?username=draper-crypto&theme=light&lang=zh-CN" alt="Zhihu Stats" style="max-width:100%;display:block;margin:0;padding:0;" />
-    </td>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN" alt="CSDN Stats" style="max-width:100%;display:block;margin:0;padding:0;" />
-    </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://stats.justsong.cn/api/zhihu?username=draper-crypto&theme=light&lang=zh-CN" alt="Zhihu Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN" alt="CSDN Stats" width="49%" />
+ </p>
