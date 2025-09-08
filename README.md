@@ -1,92 +1,113 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&multiline=true&width=688&height=88&lines=Hi+There!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B+I'm+John+Tao." alt="Typing SVG" /></a>
+## Hi there 👋, I'm John Tao!
 
-# 🎉 About me
-🎓 Junior college student majoring in software technology in Nanjing Engineering Higher Vocational School
-
-🎓 Soochow University law major self-examination undergraduate
-
-🎓 Master of Business Administration, College of Europe
-
-🔭 Member of Changjiang Technical and Economic Association（I2302227M）
-
-💰 Robert Kiyosaki “Rich Dad” course participant
-
-## 🔗 Contact：
-
-  <div align="center">
-    <a href="https://blog.csdn.net/Suprman88">
-        <img src="https://img.shields.io/badge/CSDN-论坛-c32136" />
-    </a>&emsp;
-    <a href="https://www.zhihu.com/people/draper-crypto">
-        <img src="https://img.shields.io/badge/Zhihu-知乎-blue" />
-    </a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Draper-crypto&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
-## 🧠 Medal of skill：
-
-<div align="center"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat">   
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat">     
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat">   
-</div> 
-<div align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat"> 
-    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">   
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">   
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">   
+<div >
+    <a href="https://github.com/draper-crypto" target="_blank">
+        <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 10px;" />
+    </a>
+    <a href="https://twitter.com/cryptodraper1" target="_blank">
+        <img src=https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin: 0 10px;" />
+    </a>
+    <a href="https://blog.csdn.net/Suprman88" target="_blank">
+        <img src=https://img.shields.io/badge/CSDN-%23CF000E.svg?&style=for-the-badge&logo=csdn&logoColor=white alt=csdn style="margin: 0 10px;" />
+    </a>
+    <a href="https://www.zhihu.com/people/draper-crypto" target="_blank">
+        <img src=https://img.shields.io/badge/zhihu-%230084FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin: 0 10px;" />
+    </a>
+    <a href="http://weixin.qq.com/r/mp/30Xq8nrEIydcrT6R9xDN" target="_blank">
+        <img src=https://img.shields.io/badge/wechat-%4b7b3f.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=zhihu style="margin: 0 10px;" />
+    </a>
 </div>
 
 
-## 💪Planned learning：
+- 🔭 I’m a member of the Chinese Artificial Intelligence Association. (ID:E661056207A)
+- 🔭 I’m a member of the Yangtze River Economic and Technological Association.(ID:I2302227M)
+- 💡 [First batch of experts for the National College Students Innovation and Entrepreneurship Practice Competition 2025](https://m.saikr.com/contest/notice_detail/32747)
 
-<div align="center">
-     <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">   
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat">     
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat">   
-    <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat"> 
-    <img src="https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat"> 
+<br/>
+
+## My Skill Set
+
+<table><tr><td valign="top" width="33%">
+
+### Technology stack
+
+<div align="center">  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
-## 🧰 Common tool
+### Environment
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=idea,mysql,vscode,visualstudio,vue&theme=light" /><br>
-<img src="https://skillicons.dev/icons?i=pr,au,ps,github,githubactions,md,postman" /><br>
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-    <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
- <br>
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-
-
+<div align="center">  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
+
+### Deploy
+
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+<br/>
+
+## Github Stats
+
+<div align="center" style="margin:0;padding:0;line-height:0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draper-crypto&theme=blue_green" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;" />
+</div>
+
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0;padding:0;line-height:0;">
+<tr>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draper-crypto&theme=blue_green" alt="most commit language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+</tr>
+<tr>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=draper-crypto&theme=blue_green&utcOffset=8" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+</tr>
+</table>
+
+<div align="center" style="margin:0;padding:0;line-height:0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draper-crypto&theme=react-dark" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;" />
+</div>
+
+<br/>
 
 
-# Domestic creation platform
-
-| ![](https://stats.justsong.cn/api/zhihu?username=draper-crypto&theme=light&lang=zh-CN) | ![](https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-
------
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png">
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" style="zoom:100%;">
-   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-</ div>
-
+## 中国大陆创作
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0;padding:0;line-height:0;">
+<tr>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="https://stats.justsong.cn/api/zhihu?username=draper-crypto&theme=light&lang=zh-CN" alt="Zhihu Stats" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0;">
+        <img src="https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN" alt="CSDN Stats" style="max-width:100%;display:block;margin:0;padding:0;" />
+    </td>
+</tr>
+</table>
