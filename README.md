@@ -68,32 +68,31 @@
 <br/>
 
 ## Github Stats
-
 <div align="center" style="margin:0;padding:0;line-height:0;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draper-crypto&theme=blue_green" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draper-crypto&theme=blue_green" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
 </div>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0;padding:0;line-height:0;">
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:0;margin:0;padding:0;line-height:0;">
 <tr>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <td align="center" width="50%" style="padding:0;border:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
     </td>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draper-crypto&theme=blue_green" alt="most commit language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <td align="center" width="50%" style="padding:0;border:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draper-crypto&theme=blue_green" alt="most commit language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
     </td>
 </tr>
 <tr>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <td align="center" width="50%" style="padding:0;border:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=draper-crypto&theme=blue_green" alt="repos per language" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
     </td>
-    <td align="center" width="50%" style="padding:0;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=draper-crypto&theme=blue_green&utcOffset=8" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <td align="center" width="50%" style="padding:0;border:0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=draper-crypto&theme=blue_green&utcOffset=8" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
     </td>
 </tr>
 </table>
 
 <div align="center" style="margin:0;padding:0;line-height:0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draper-crypto&theme=react-dark" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=draper-crypto&theme=react-dark" alt="profile details" style="max-width:100%;display:block;margin:0;padding:0;border:0;" />
 </div>
 
 <br/>
