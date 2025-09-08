@@ -24,7 +24,6 @@
 - 🔭 I’m a member of the Yangtze River Economic and Technological Association.(ID:I2302227M)
 - 💡 [First batch of experts for the National College Students Innovation and Entrepreneurship Practice Competition 2025](https://m.saikr.com/contest/notice_detail/32747)
 
-<br/>
 
 # My Skill Set
 
