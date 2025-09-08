@@ -2,22 +2,23 @@
 
 <div >
     <a href="https://github.com/draper-crypto" target="_blank">
-        <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 5px;" />
+        <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 10px;" />
     </a>
     <a href="https://twitter.com/cryptodraper1" target="_blank">
-        <img src=https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin: 0 5px;" />
+        <img src=https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin: 0 10px;" />
     </a>
     <a href="https://blog.csdn.net/Suprman88" target="_blank">
-        <img src=https://img.shields.io/badge/CSDN-%23CF000E.svg?&style=for-the-badge&logo=csdn&logoColor=white alt=csdn style="margin: 0 5px;" />
+        <img src=https://img.shields.io/badge/CSDN-%23CF000E.svg?&style=for-the-badge&logo=csdn&logoColor=white alt=csdn style="margin: 0 10px;" />
     </a>
     <a href="https://www.zhihu.com/people/draper-crypto" target="_blank">
-        <img src=https://img.shields.io/badge/zhihu-%230084FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin: 0 5px;" />
+        <img src=https://img.shields.io/badge/zhihu-%230084FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin: 0 10px;" />
     </a>
     <a href="http://weixin.qq.com/r/mp/30Xq8nrEIydcrT6R9xDN" target="_blank">
-        <img src=https://img.shields.io/badge/wechat-%4b7b3f.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=zhihu style="margin: 0 5px;" />
+        <img src=https://img.shields.io/badge/wechat-%4b7b3f.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=zhihu style="margin: 0 10px;" />
     </a>
 </div>
 
+<br />
 
 - 🔭 I’m a member of the Chinese Artificial Intelligence Association. (ID:E661056207A)
 - 🔭 I’m a member of the Yangtze River Economic and Technological Association.(ID:I2302227M)
@@ -26,8 +27,6 @@
 <br/>
 
 ## My Skill Set
-
-<table><tr><td valign="top" width="33%">
 
 ### Technology stack
 
